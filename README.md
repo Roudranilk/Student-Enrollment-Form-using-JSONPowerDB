@@ -34,14 +34,14 @@ JsonPowerDB is used to perform CRUD operation
 We need to enter a roll number, name, birth date, and all the details and click the save 
 
 **The data is stored in the database which is as shown:**
-<img src="./images1/data_saved.jpeg">
-<img src="./images1/database.jpeg">
+<img src="../images1/data_saved.jpeg">
+<img src="../images1/database.jpeg">
 
 **The update button is shown for already existing data**
-<img src="./images1/update.jpeg">
+<img src="../images1/update.jpeg">
 
 **If input data is not valid**
-<img src="./images1/invalid.jpeg">
+<img src="../images1/invalid.jpeg">
 
 
 
