@@ -30,7 +30,7 @@ JsonPowerDB is used to perform CRUD operation
 
 # HOW TO USE
 **Initially**
-<img src="./images1/home.jpg">
+<img src="images1/data_saved.JPG">
 We need to enter a roll number, name, birth date, and all the details and click the save 
 
 **The data is stored in the database which is as shown:**
